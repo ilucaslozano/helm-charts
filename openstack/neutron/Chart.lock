@@ -1,7 +1,7 @@
 dependencies:
 - name: mariadb
   repository: oci://keppel.eu-de-1.cloud.sap/ccloud-helm
-  version: 0.27.1
+  version: 0.38.1
 - name: pxc-db
   repository: oci://keppel.eu-de-1.cloud.sap/ccloud-helm
   version: 0.4.0
@@ -10,7 +10,7 @@ dependencies:
   version: 0.6.9
 - name: mysql_metrics
   repository: oci://keppel.eu-de-1.cloud.sap/ccloud-helm
-  version: 0.5.2
+  version: 0.8.1
 - name: rabbitmq
   repository: oci://keppel.eu-de-1.cloud.sap/ccloud-helm
   version: 0.22.2
@@ -32,5 +32,5 @@ dependencies:
 - name: ovsdb
   repository: oci://keppel.eu-de-1.cloud.sap/ccloud-helm
   version: 0.2.0
-digest: sha256:74a66772651a6d94c7fb3c050f32304cd633a311c14228944db43f1606dbacbb
-generated: "2026-04-20T12:17:41.874047+03:00"
+digest: sha256:dd5d671c1c11897aff0c0d68d78908c838a0dc43be2838cb1ff76dfd636ede0a
+generated: "2026-06-16T12:42:55.540343+03:00"
